@@ -37,24 +37,24 @@ body{
 
 @keyframes movingtext{
 0%    {background-color: red; }
-5%    {background-color: orangered; }
-10%   {background-color: orange; }
-15%   {background-color: yellow; }
-20%   {background-color: yellowgreen; }
-25%   {background-color: green; }
-30%   {background-color: darkgreen; }
-35%   {background-color: darkcyan;}
-40%   {background-color: cyan; }
-45%   {background-color: lightblue; }
+5%    {background-color: pink; }
+10%   {background-color: salmon; }
+15%   {background-color: palevioletred; }
+20%   {background-color: deeppink; }
+25%   {background-color: darkorchid; }
+30%   {background-color: purple; }
+35%   {background-color: darkviolet;}
+40%   {background-color: darkmagenta; }
+45%   {background-color: darkblue; }
 50%   {background-color: blue;}
-55%   {background-color: darkblue; }
-60%   {background-color: darkmagenta; }
-65%   {background-color: darkviolet;}
-70%   {background-color: purple; }
-75%   {background-color: darkorchid; }
-80%   {background-color: deeppink; }
-85%   {background-color: palevioletred;}
-90%   {background-color: salmon; }
-95%   {background-color: pink; }
+55%   {background-color: lightblue; }
+60%   {background-color: cyan; }
+65%   {background-color: darkcyan;}
+70%   {background-color: darkgreen; }
+75%   {background-color: green; }
+80%   {background-color: yellowgreen; }
+85%   {background-color: yellow;}
+90%   {background-color: orange; }
+95%   {background-color: orangered; }
 100%  {background-color: red; }
 }
